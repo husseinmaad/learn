@@ -11,7 +11,6 @@ Part 1
 
 Loaders are transformations that are applied on a resource file of your app. They are functions (running in node.js) that take the source of a resource file as the parameter and return the new source.
 
-<h1 id="gfdfhj"></h1>
 ## What is the difference between path and publicPath when used as keys in the output object?
 
 ## What is a babel preset?
@@ -28,8 +27,6 @@ The webpack-dev-server is a little Node.js Express server, which uses the webpac
 
 ## What does the default keyword do when exporting?
 export
-
-## What is object destructuring?
 
 
 ## How can you enable your webpack.config.js to do certain things in production versus development?
