@@ -15,7 +15,7 @@ module.exports = {
   module: {
     rules: [{
       //Check for all js files
-      test: /\.js$/,
+      test: /\.jsx?$/,
       // Don't include node_modules directory in the search for js files
       exclude: /node_modules/,
       // Use the babel-loader plugin to transpile the javascript
