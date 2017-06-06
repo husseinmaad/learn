@@ -9,7 +9,7 @@ sayBye()
 
 console.log(instructor)
 console.log(instructor2)
-console.log(instructor3)
+
 
 const p = new Person('Elie', 'Schoppik')
 
