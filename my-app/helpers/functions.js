@@ -8,7 +8,5 @@ export function sayBye(){
 
 const instructor = "Elie";
 const instructor2 = "Tim";
-const instructor3 = "Matt";
-const instructor4 = "Matt";
 
-export {instructor, instructor2, instructor3};
+export {instructor, instructor2};
